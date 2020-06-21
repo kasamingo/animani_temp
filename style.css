@@ -1,0 +1,94 @@
+/*
+Theme Name: animani社様
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 40px;
+}
+.header-list a{
+    font-size: 18px;
+    color:gray;
+}
+header{
+    width: 100%;
+    height: 120px;
+    top: 0;
+}
+.header-logo{
+    float: left;
+    margin: 5px 70px;
+    width: 95px;
+}
+.header-list{
+    margin-left: 550px;
+}
+.header-list li{
+    float: left;
+    margin-top: 65px;
+    margin-left: 40px;
+}
+.header-icon li{
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+
+
+footer{
+    position: relative;
+    height: 270px;
+    background-color: silver;
+}
+.container{
+    padding: 40px 150px;
+    text-align: center;
+}
+.link1{
+    float: left;
+    color: white;
+    margin-top: 20px;
+    margin-left: 190px;
+    font-size: 20px;
+    font-style: normal;
+}
+.footer-icon{
+    margin-left: 60px;
+}
+.footer-icon li{
+    float: right;
+    margin-left: 40px;
+}
+.col2{
+    margin-top: 100px;
+}
+.link2{
+    float: right;
+    margin-right: 170px;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+}
+.link3{
+    float: left;
+    margin-left: 190px;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.copy{
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+}
